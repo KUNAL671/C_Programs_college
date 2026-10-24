@@ -1,8 +1,4 @@
-/*
- * Program 1: Display Array Elements and Their Memory Addresses
- * Accepts integer, float and character arrays and displays the value
- * and memory address of each element.
- */
+
 #include <stdio.h>
 
 int main()
