@@ -1,8 +1,4 @@
-/*
- * Program 3: Addition of Two Matrices
- * Reads two matrices of the same order, adds them and displays
- * the resultant matrix using a two-dimensional array.
- */
+
 #include <stdio.h>
 
 int main()
