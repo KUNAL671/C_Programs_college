@@ -1,7 +1,4 @@
-/*
- * Program 2: Sum of Elements of a One-Dimensional Array
- * Accepts the elements of a 1-D array and calculates their sum.
- */
+
 #include <stdio.h>
 
 int main()
